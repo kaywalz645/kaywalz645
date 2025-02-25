@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaywalz645
 - 👀 I’m interested in mixing creativity with programming!
-- 🌱 I’m currently learning: C# and .NET frameworks.
+- 🌱 I’m currently learning: Python and SQL.
 - 📫 How to reach me: Through my contact me page on my github page
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love going on rides with my motorcycle! 
