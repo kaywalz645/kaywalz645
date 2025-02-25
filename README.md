@@ -10,9 +10,9 @@ Welcome to my GitHub! This repository showcases some of the projects I've worked
 
 Projects
 1. Design Pattern Practice
-This repository showcases various design patterns implemented in Java, including Singleton, Iterator, and Decorator. The purpose of this collection is to demonstrate the use and benefits of these patterns in software development, improving code reusability, flexibility, and maintainability.
+- This repository showcases various design patterns implemented in Java, including Singleton, Iterator, and Decorator. The purpose of this collection is to demonstrate the use and benefits of these patterns in software development, improving code reusability, flexibility, and maintainability.
 
 3. C++ Practice Portal
-C++ program that demonstrates class hierarchy and memory management.
+- C++ program that demonstrates class hierarchy and memory management.
 Focuses on RAII (Resource Acquisition Is Initialization) to avoid memory leaks.
 
