@@ -9,10 +9,14 @@
 Welcome to my GitHub! This repository showcases some of the projects I've worked on as part of my studies and personal development in Computer Information Systems.
 
 Projects
-1. Design Pattern Repo
-- A Java repo that I used to practiced design patterns such as, Singleton, Iterator, and Decorator. 
+1. kaywalz645.github.io
+  - This is where my github page lives, this is my portfolio. It has a list of projects and how to contact me.
 
-2. C++ Repo
-- C++ program that demonstrates class hierarchy and memory management.
-Focuses on RAII (Resource Acquisition Is Initialization) to avoid memory leaks.
+2. CockyCoderFrontEnd
+  - This project I worked with 4 other classmates and developed a java backend using JSON and a javafx frontend to display.  
 
+3. CSCE416Networks - Java Socket Programming
+   - This where I keep my networking assignments, inluding a 2 way messaging server and a multi-client group chat server.
+  
+4. Design Patterns
+   - This is where I practiced design patterns, such as Singleton, Iterator, and Decorator.
