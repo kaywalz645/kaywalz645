@@ -14,9 +14,6 @@ Projects
 
 2. CockyCoderFrontEnd
   - This project I worked with 4 other classmates and developed a java backend using JSON and a javafx frontend to display.  
-
-3. CSCE416Networks - Java Socket Programming
-  - This where I keep my networking assignments, inluding a 2 way messaging server and a multi-client group chat server.
   
-5. Design Patterns
+3. Design Patterns
   - This is where I practiced design patterns, such as Singleton, Iterator, and Decorator.
